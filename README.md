@@ -28,22 +28,6 @@ customer-segmentation/
 └── README.md                               # Project overview
 
 
-Requirements
-
-Python 3.8+
-
-pandas
-
-numpy
-
-scikit-learn
-
-matplotlib
-
-seaborn
-
-jupyter
-
 Install dependencies with:
 pip install -r requirements.txt
 
